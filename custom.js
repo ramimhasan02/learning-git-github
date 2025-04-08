@@ -1,2 +1,2 @@
 // i am from main
-alert("hello world");
+console.log("hello world");
